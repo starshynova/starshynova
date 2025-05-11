@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Lidiia</h1>
 
 🔹 **Full-stack web developer** focused on **Backend**.  
-🔹 Working with **JavaScript, React, MUI, Node.js, MongoDB**.  
+🔹 Working with **JavaScript, React, MUI, Node.js, MongoDB, MySQL, AWS**.  
 🔹 Passionate about learning new information, classical painting and classical music
 
 ---
