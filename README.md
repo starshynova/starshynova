@@ -54,8 +54,8 @@
 
 ## ✔️ My projects
 
-- 🔢 [**Mathematics**](https://github.com/starshynova/Mathematics) - A full-stack training application for children. It helps the user to practice simple maths calculations in two ways - writing an answer and a quiz. 
 - ❓ [**WoordenQuiz**](https://github.com/starshynova/WoordenQuiz) - A full-stack educational application with special repetition technology for better word learning.
+- 🔢 [**Mathematics**](https://github.com/starshynova/Mathematics) - A full-stack training application for children. It helps the user to practice simple maths calculations in two ways - writing an answer and a quiz. 
 - 🎲 [**BoardSwap**](https://github.com/starshynova/BoardSwap) - A full-stack c2c application for selling and buying board games and puzzles.
 
 ---
