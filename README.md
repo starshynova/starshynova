@@ -28,7 +28,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3F5FFF?style=flat&logo=cloudinary&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white&style=flat)
-
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white&style=flat)
 
 ### ⚙️ Deployment services
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-black?logo=amazonec2&logoColor=white&style=flat)
