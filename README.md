@@ -32,6 +32,7 @@
 
 ### ⚙️ Deployment services
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-black?logo=amazonec2&logoColor=white&style=flat)
+![PM2](https://img.shields.io/badge/PM2-process%20manager-2EC866?logo=pm2&logoColor=white&style=flat)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-8A05FF?style=flat&logo=render&logoColor=white)
 
@@ -41,6 +42,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF5A5F?style=flat)
 
 ---
 
