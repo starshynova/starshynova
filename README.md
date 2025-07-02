@@ -32,6 +32,7 @@
 
 ### ⚙️ Deployment services
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-black?logo=amazonec2&logoColor=white&style=flat)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=flat)
 ![PM2](https://img.shields.io/badge/PM2-process%20manager-2EC866?logo=pm2&logoColor=white&style=flat)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-8A05FF?style=flat&logo=render&logoColor=white)
