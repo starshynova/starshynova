@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Lidiia</h1>
 
 🔹 **Full-stack web developer** focused on **Backend**.  
-🔹 Working with **JavaScript, TypeScript, React, Tailwind, MUI, Node.js, Python, MongoDB, MySQL, PostreSQL, AWS**.  
+🔹 Working with **JavaScript, TypeScript, React, Tailwind, MUI, Node.js, Python, MongoDB, MySQL, PostgreSQL, AWS**.  
 🔹 Passionate about learning new information, classical painting and classical music
 
 ---
@@ -42,6 +42,7 @@
 ## 📔  Currently Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF5A5F?style=flat)
